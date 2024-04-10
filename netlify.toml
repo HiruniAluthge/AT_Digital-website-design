@@ -1,4 +1,1 @@
-[build]
-  base = "/"
-  command = "echo 'No build necessary'"
-  publish = "public"
+
