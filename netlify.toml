@@ -1,4 +1,4 @@
 [build]
   base = "/"
   command = "echo 'No build necessary'"
-  publish = "dist"
+  publish = "https://github.com/HiruniAluthge/AT_Digital-website-design/tree/main"
