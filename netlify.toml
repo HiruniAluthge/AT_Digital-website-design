@@ -1,3 +1,5 @@
 [build]
   base = "/"
-  publish = "public" 
+  [build]
+  command = "echo 'No build necessary'"
+  publish = "dist" 
